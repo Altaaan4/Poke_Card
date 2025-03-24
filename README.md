@@ -13,4 +13,5 @@ This **Pokédex** application displays **Pokémon names, strengths, health point
 - 🔄 **Real-Time API Integration**: Pokémon data is fetched dynamically from an API.  
 
 ## 📸 Preview
+![Image](https://github.com/user-attachments/assets/d82b16f5-cf79-4a23-b8d5-b5ad0bb80e9a)
 
